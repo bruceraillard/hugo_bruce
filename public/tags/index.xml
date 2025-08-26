@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Le plus beau site du monde</title>
+    <link>http://localhost:1313/hugo_bruce/tags/</link>
+    <description>Recent content in Tags on Le plus beau site du monde</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 10 Aug 2025 16:30:00 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo_bruce/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/hugo_bruce/tags/hugo/</link>
+      <pubDate>Sun, 10 Aug 2025 16:30:00 +1100</pubDate>
+      <guid>http://localhost:1313/hugo_bruce/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/hugo_bruce/tags/intro/</link>
+      <pubDate>Sun, 10 Aug 2025 16:30:00 +1100</pubDate>
+      <guid>http://localhost:1313/hugo_bruce/tags/intro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/hugo_bruce/tags/markdown/</link>
+      <pubDate>Sun, 10 Aug 2025 16:30:00 +1100</pubDate>
+      <guid>http://localhost:1313/hugo_bruce/tags/markdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

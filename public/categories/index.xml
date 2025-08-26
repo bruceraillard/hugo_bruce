@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Le plus beau site du monde</title>
+    <link>http://localhost:1313/hugo_bruce/categories/</link>
+    <description>Recent content in Categories on Le plus beau site du monde</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 10 Aug 2025 16:30:00 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo_bruce/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/hugo_bruce/categories/blog/</link>
+      <pubDate>Sun, 10 Aug 2025 16:30:00 +1100</pubDate>
+      <guid>http://localhost:1313/hugo_bruce/categories/blog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

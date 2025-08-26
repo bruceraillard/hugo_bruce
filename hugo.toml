@@ -1,0 +1,14 @@
+languageCode = 'fr-FR'
+title = 'Le plus beau site du monde'
+theme = "ananke"
+baseURL = "https://bruceraillard.github.io/hugo_bruce/"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
+
+[params]
+  mainSections = []

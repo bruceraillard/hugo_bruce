@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main class="pb7" role="main">
+    <header class="cover bg-top" {{ with .Site.Params.background }}style="background-image: url('{{ . }}');" {{ end }}>
+        <div class="white">
+            {{ with .Site.Params.description }}
+            <p class="f4-l f5 measure center lh-copy">{{ . }}</p>
+            {{ end }}
+            {{ with .Site.Params.call_to_action }}
+            <a class="btn" href="{{ $.Site.Params.call_to_action_url | default "/posts/" }}">{{ . }}</a>
+            {{ end }}
+        </div>
+    </header>
+
+    <section class="ph3 ph5-l pv5">
+        <div class="mw8 center">
+            <!-- affiche le Markdown de content/_index.md -->
+            <div class="prose lh-copy">
+                {{ .Content }}
+            </div>
+        </div>
+    </section>
+</main>
+{{ end }}
